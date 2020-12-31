@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: broccolini/swiss
+theme_color: magenta
 title: Welcome to my Website.
 Description: This website is currently under construction!! Thank you for stopping by..
