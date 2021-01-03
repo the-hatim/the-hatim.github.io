@@ -1,4 +1,12 @@
-remote_theme: broccolini/swiss
-theme_color: magenta
+# Basic Matter
 title: Welcome to my Website.
+author: Hatim Ali Kanchwala
 Description: This website is currently under construction!! Thank you for stopping by..
+github_username: the-hatim
+
+
+# Build Settings
+markdown: kramdon
+theme: minima
+
+
