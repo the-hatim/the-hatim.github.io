@@ -1,3 +1,5 @@
-# Theme Credits
+This is a portfolio website
 
-- [Mauricio Urraco](https://github.com/murraco)
+Theme Credits
+- [Mauricio Urraco](https://github.com/murraco/jekyll-theme-minimal-resume)
+- [Nathan Randecker](https://github.com/nrandecker/particle)
