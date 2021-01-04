@@ -6,11 +6,11 @@ url: "https://the-hatim.github.io/"  # the base hostname & protocol for your sit
 
 # User settings
 username: Hatim Ali Kanchwala
-user_description: Hey! I\'m a Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Software Engineer
+user_description: Hey I'm a Recent Computer Engineering Graduate, always searching for the next challenge; Self-Driven, Result-oriented and a quick learner with a focused mindset and varied technical skills. Critical thinker with a problem-solving attitude and a knack for continuous learning and professional development. Looking for opportunities in Cyber-Security, Software Development, Software Testing, Information Security and IT Domains. Demonstrated experience developing high quality test scripts, plans and test executions. Well Versed with Programming, Version Control Systems and Testing. 
+user_title: Software Developer
 email: hatimali.ha@gmail.com
 # twitter_username: lorem_ipsum
-github_username:  the-hatim
-# gplus_username:  lorem_ipsum
+github_username: the-hatim
+LinkedIn: hatim-ali-kanchwala
 
 exclude: ['package.json', 'src' , 'node_modules']
