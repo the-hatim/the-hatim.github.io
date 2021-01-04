@@ -1,12 +1,16 @@
-# Basic Matter
-title: Welcome to my Website.
-author: Hatim Ali Kanchwala
-Description: This website is currently under construction!! Thank you for stopping by..
-github_username: the-hatim
+# Site settings
+title: Hatim Ali Kanchwala
+description: Personal Portfolio
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
+# User settings
+username: Hatim Ali Kanchwala
+user_description: Hey! I\'m a Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
+user_title: Software Engineer
+email: hatimali.ha@gmail.com
+# twitter_username: lorem_ipsum
+ github_username:  the-hatim
+# gplus_username:  lorem_ipsum
 
-# Build Settings
-theme: minima
-
-
-
+exclude: ['package.json', 'src' , 'node_modules']
